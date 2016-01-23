@@ -208,14 +208,13 @@ $(document).ready(function(){
 		var tie = board.checkForTie();
 
 		if(tie){
-			console.log(board.getPlayer());
 			var tie_CSS = {
 					'-webkit-transform': 'none',
 					'-moz-transform': 'none',
 					'-o-transform': 'none',
 					'transform': 'none',
-					top: '65px',
-					left: '36%',
+					top: '25px',
+					left: '25px',
 					visibility: 'visible',
 					width: '250px', 
 					height: '250px'
@@ -262,17 +261,17 @@ $(document).ready(function(){
 		if(broken_position[0] === 'vertical'){
 			if(broken_position[1] === '1'){
 				line_direction_CSS = {
-					right: '60%', 
+					left: '39px', 
 				};
 			}	
 			else if(broken_position[1] === '2'){
 				line_direction_CSS = {
-					right: '49%', 
+					left: '139px', 
 				};
 			}
 			else if(broken_position[1] === '3'){
 				line_direction_CSS = {
-					right: '38%', 
+					left: '239px', 
 				};
 			}
 			line_CSS = {
@@ -280,27 +279,27 @@ $(document).ready(function(){
 				'-moz-transform': 'none',
 				'-o-transform': 'none',
 				'transform': 'none',
-				top: '49px',
+				top: '15px',
 				visibility: 'visible',
 				width: '20px', 
-				height: '285px',
+				height: '270px',
 			};
 			line_CSS = $.extend(line_CSS, line_direction_CSS);
 		}
 		else if(broken_position[0] === 'horizontal'){
 			if(broken_position[1] === '1'){
 				line_direction_CSS = {
-					top: '82px', 
+					top: '36px', 
 				};
 			}	
 			else if(broken_position[1] === '2'){
 				line_direction_CSS = {
-					top: '181px', 
+					top: '136px', 
 				};
 			}
 			else if(broken_position[1] === '3'){
 				line_direction_CSS = {
-					top: '280px', 
+					top: '236px', 
 				};
 			}
 			line_CSS = {
@@ -308,10 +307,10 @@ $(document).ready(function(){
 				'-moz-transform': 'none',
 				'-o-transform': 'none',
 				'transform': 'none',
-				left: '34%',
+				left: '20px',
 				top: '70px',
 				visibility: 'visible',
-				width: '285px', 
+				width: '262px', 
 				height: '20px',
 			};
 			line_CSS = $.extend(line_CSS, line_direction_CSS);
@@ -319,7 +318,7 @@ $(document).ready(function(){
 		else if(broken_position[0] === 'diagonal'){
 			if(broken_position[1] === '1'){
 				line_direction_CSS = {
-					right: '60%',
+					right: '100px',
 					'-webkit-transform': 'rotate(-45deg)',
 					'-moz-transform': 'rotate(-45deg)',
 					'-o-transform': 'rotate(-45deg)',
@@ -328,7 +327,7 @@ $(document).ready(function(){
 			}	
 			else if(broken_position[1] === '2'){
 				line_direction_CSS = {
-					right: '38%',
+					right: '-10px',
 					'-webkit-transform': 'rotate(45deg)',
 					'-moz-transform': 'rotate(45deg)',
 					'-o-transform': 'rotate(45deg)',
@@ -337,10 +336,10 @@ $(document).ready(function(){
 			}
 			line_CSS = {
 				visibility: 'visible',
-				top: '40px', 
-				left: '48%', 
+				top: '-25px', 
+				left: '140px', 
 				width: '20px', 
-				height: '300px'
+				height: '350px'
 			};
 			line_CSS = $.extend(line_CSS, line_direction_CSS);
 		}
