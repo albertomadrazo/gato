@@ -187,21 +187,22 @@ $(document).ready(function(){
 			board.board_moves[parseInt($(this).attr('id'))-1] = board.symbols[board.getPlayer()-1];
 			$(this).html(board.symbols[board.getPlayer()-1]);
 
+			var got_winner = board.checkForWin();
+			if(got_winner){
+				(board.getPlayer() === 1) ? score1 += 1 : score2 += 1;
+				$('#player-score-1').html(score1);
+				$('#player-score-2').html(score2);
+				drawWinningLine(board.getLinePosition());
+				nuevoJuego(1500);
+				return;
+			}
+
 			if(board.getPlayer() === 1){
 				board.setPlayer(2);
 			}
 			else if(board.getPlayer() === 2){
 				board.setPlayer(1);
 			}
-		}
-		var got_winner = board.checkForWin();
-		if(got_winner){
-			(board.getPlayer() === 1) ? score1 += 1 : score2 += 1;
-			$('#player-score-1').html(score1);
-			$('#player-score-2').html(score2);
-			drawWinningLine(board.getLinePosition());
-			nuevoJuego(1500);
-			return;
 		}
 
 		var tie = board.checkForTie();
