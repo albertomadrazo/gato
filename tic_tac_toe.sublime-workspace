@@ -1,0 +1,977 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chec",
+				"checkForTie"
+			],
+			[
+				"check",
+				"checkForTie"
+			],
+			[
+				"board",
+				"board_moves"
+			],
+			[
+				"checkDiago",
+				"checkDiagonalLeft"
+			],
+			[
+				"checkDiagonal",
+				"checkDiagonalRight"
+			],
+			[
+				"get",
+				"getPlayer"
+			],
+			[
+				"bo",
+				"board_moves"
+			],
+			[
+				"conos",
+				"console"
+			],
+			[
+				"cir",
+				"circles-container"
+			],
+			[
+				"change",
+				"changeImgNumber"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"border-sly",
+				"border-style"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"sear",
+				"searchbox"
+			],
+			[
+				"paddin-",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"sera",
+				"searchform	(index.html)"
+			],
+			[
+				"sty",
+				"stylesheets	(index.html)"
+			],
+			[
+				"movie-po",
+				"movie-pop-close"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"su",
+				"submenu"
+			],
+			[
+				"sub",
+				"subNumber"
+			],
+			[
+				"over",
+				"overmenu"
+			],
+			[
+				"ov",
+				"oversubmenu"
+			],
+			[
+				"men",
+				"menu-inicio-sub"
+			],
+			[
+				"visibl",
+				"visibility"
+			],
+			[
+				"menu-",
+				"menu-inicio-sub"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"director_name",
+				"director_name_slug"
+			],
+			[
+				"Directr",
+				"DirectorAdmin"
+			],
+			[
+				"frien",
+				"friend_list"
+			],
+			[
+				"strinf",
+				"stringify_user_field"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"context",
+				"context_dict"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Direcot",
+				"DirectorForm"
+			],
+			[
+				"Titl",
+				"TitleForm"
+			],
+			[
+				"mo",
+				"mouseover"
+			],
+			[
+				"clien",
+				"clientHeight"
+			],
+			[
+				"TOc",
+				"TOCLevel2"
+			],
+			[
+				"TOCL",
+				"TOCLevel1"
+			],
+			[
+				"insert",
+				"insertBefore"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"previ",
+				"previousElementSibling"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"start",
+				"startGameAnimation"
+			],
+			[
+				"DRAW",
+				"draw"
+			],
+			[
+				"con",
+				"context_dict"
+			],
+			[
+				"this",
+				"thisMonthsInterest"
+			],
+			[
+				"str",
+				"stringToInsert"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"v",
+				"void"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"words",
+				"countWords"
+			],
+			[
+				"encryp",
+				"encryptedMsgs"
+			],
+			[
+				"lis",
+				"listMessages"
+			],
+			[
+				"messa",
+				"messageToXOR"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"lea",
+				"leapYearFlag"
+			],
+			[
+				"quadra",
+				"quadraticEcuation"
+			],
+			[
+				"talb",
+				"tableContent"
+			],
+			[
+				"table",
+				"tableContent"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"monster",
+				"capturedMonsters"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"timezone",
+				"timezone_abbreviations_list"
+			],
+			[
+				"signed",
+				"signed_in"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"hea",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/tic_tac_toe.js",
+			"settings":
+			{
+				"buffer_size": 3494,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/alberto/Desktop/web/odin/ruby/ruby_tic_tac_toe/Board.rb",
+			"settings":
+			{
+				"buffer_size": 1566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 1514,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/alberto/Desktop/web/odin/html5_css3/shayhowe/styles-conference/assets/stylesheets/main.css",
+			"settings":
+			{
+				"buffer_size": 8106,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ori",
+				"Origami: Create Pane Below"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 49.0,
+		"history":
+		[
+			"Install Package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/alberto/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alberto/Desktop/web/odin/javascript_jquery/oop/index.html",
+		"/home/alberto/Desktop/web/odin/javascript_jquery/snake/js/snake.js",
+		"/home/alberto/Desktop/web/odin/javascript_jquery/carousel/main2.css",
+		"/home/alberto/Desktop/web/odin/javascript_jquery/carousel/.gitignore",
+		"/home/alberto/Desktop/web/odin/javascript_jquery/carousel/css/main2.css",
+		"/home/alberto/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/alberto/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/index2.html",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/css/main2.css",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/css/style.css",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/pruebas.html",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/css/reset.css",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/index.html",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/css/main.css",
+		"/home/alberto/Desktop/web/odin/my_google/fuck.html",
+		"/home/alberto/Desktop/web/odin/html5_css3/youtube/css/normalize.css",
+		"/home/alberto/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/alberto/Desktop/web/odin/ruby/rails/workspace/hello_app/Gemfile",
+		"/home/alberto/Desktop/web/django/cinesnob/califas/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnob/cinesnob/settings.py",
+		"/home/alberto/Desktop/web/django/cinesnob/califas/models.py",
+		"/home/alberto/Desktop/web/django/cinesnob/cinesnob/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnob/app_stats/urls.py",
+		"/home/alberto/Desktop/web/django/cinesnob/static/css/movie-detail.css",
+		"/home/alberto/Desktop/web/django/cinesnob/static/js/exitos.js",
+		"/home/alberto/Desktop/web/django/cinesnob/static/css/exitos.css",
+		"/home/alberto/Desktop/web/django/cinesnob/app_stats/views.py",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/exitos.html",
+		"/home/alberto/Desktop/web/django/cinesnob/TODO.txt",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/index.html",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/directores.html",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/amigos.html",
+		"/home/alberto/Desktop/web/django/cinesnob/califas/forms.py",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/epocas.html",
+		"/home/alberto/Desktop/web/django/cinesnob/califas/views.py",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/pelicula.html",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/base.html",
+		"/home/alberto/Desktop/web/django/cinesnob/dummy2/movie-detail.html",
+		"/home/alberto/Desktop/web/django/cinesnob/static/css/style.css",
+		"/home/alberto/Desktop/web/django/cinesnob/static/js/menu.js",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/miminu.html",
+		"/home/alberto/Desktop/web/django/cinesnob/static/css/images.css",
+		"/home/alberto/Desktop/web/django/cinesnob/static/js/epocas.js",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/nueva.html",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/login.html",
+		"/home/alberto/Desktop/web/django/cinesnob/templates/califas/registrarse.html",
+		"/home/alberto/Desktop/web/bootstrap_sandbox/tutorial/index.html",
+		"/home/alberto/Desktop/web/bootstrap_sandbox/tutorial/js/bootstrap.min.js",
+		"/home/alberto/Desktop/web/putamadre.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/dummy2/style.css",
+		"/home/alberto/Desktop/web/timer.html",
+		"/home/alberto/Desktop/web/bootstrap_sandbox/tutorial/read.html",
+		"/home/alberto/Desktop/web/bootstrap_sandbox/tutorial/bootstrap.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/dummy2/peliculas.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/static/css/peliculas.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/static/css/style-old.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/base-old2.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/jquery.js",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/static/css/style.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/nueva.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/views.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/pelicula.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/bio.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/perfil.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/director.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/static/css/perfil.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/dummy2/movie-detail.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/static/css/index.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/index.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/dummy/css/style.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/dummy/js/menu.js",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/dummy/layout.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/templatetags/get_range.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/dummy2/index.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/base.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/templates/califas/amigos.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/admin.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/forms.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob2/califas/models.py",
+		"/home/alberto/Desktop/web/spa/5/spa.html",
+		"/home/alberto/Desktop/web/spa/5/js/spa.shell.js",
+		"/home/alberto/Desktop/web/spa/5/js/spa.chat.js",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/dummy/css/style.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/dummy/style.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/califas/migrations/0010_auto_20150405_0831.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/templates/califas/amigos.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/cinesnob/settings.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/califas/admin.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/populate_califas.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/static/css/mi_snobismo.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/cinesnob/settings-old.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnob/.gitignore",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/machine.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/funciones.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/base.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/prueba.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/pelicula.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/header.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/nueva.html",
+		"/home/alberto/Desktop/web/index.html",
+		"/home/alberto/Desktop/web/pruebas2.html",
+		"/home/alberto/Desktop/web/flanagan/15-9.html",
+		"/home/alberto/Desktop/web/flanagan/13-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-8.html",
+		"/home/alberto/Desktop/web/flanagan/tests.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/admin.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/populate_califas.py",
+		"/home/alberto/Desktop/web/flanagan/15-7.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/head.html",
+		"/home/alberto/Desktop/web/flanagan/15-6.html",
+		"/home/alberto/Desktop/web/flanagan/15-5.html",
+		"/home/alberto/Desktop/web/flanagan/15-4.html",
+		"/home/alberto/Desktop/web/flanagan/15-3.html",
+		"/home/alberto/Desktop/web/flanagan/15-2.html",
+		"/home/alberto/Desktop/web/flanagan/15-1.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/settings.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/models.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/cinesnub/urls.py",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/static/css/mainstyle.css",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/templates/califas/index.html",
+		"/home/alberto/Desktop/web/git-projects/cinesnub/califas/views.py",
+		"/home/alberto/Desktop/web/portfolio_animator/style.js",
+		"/home/alberto/Desktop/web/portfolio_animator/style.css",
+		"/home/alberto/Desktop/Python/Pygame/anew/memorypuzzle.py",
+		"/home/alberto/Desktop/web/css/positioning-10steps.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/alberto/Desktop/web/git-projects/cinesnob/",
+			"/home/alberto/Desktop/web/git-projects/cinesnob2/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console.log",
+			"			\n",
+			"400",
+			".btn-default",
+			"logo",
+			"%;*/",
+			"app_friends",
+			"create",
+			"$(this)",
+			"5",
+			"-5",
+			"data",
+			".filter",
+			"que vayas",
+			"# if the user is logged in\n	if current_user != '':\n		the_user = get_user_or_profile(request.user)\n		try:\n			directors_list = the_user['profile'].directors.all() \n			context_dict = {'directors_list': directors_list}\n		except:\n			context_dict = {'directors_list': ''}\n\n	else:\n		return HttpResponseRedirect('/califas/login')",
+			"Title",
+			"inline-block",
+			"inline",
+			"black",
+			"	background: -moz-linear-gradient(#032f6f, #022E5F);\n	background: -webkit-linear-gradient(#032f6f, #022E5F);",
+			"		display: inline-block;\n",
+			"redirect",
+			"range",
+			"get_user_or_profile",
+			"profile_images",
+			"class=\"errorlist\">",
+			"request.FI",
+			"this field",
+			"FILE",
+			"'inline-block'",
+			"'display', 'block'",
+			"'visibility', 'visible'",
+			"'visibility', 'hidden'",
+			"'display', 'none'",
+			"inline-block",
+			"inline",
+			"list-item",
+			"block",
+			"inline-block",
+			"inline",
+			"'visibility', 'hidden'",
+			"'visibility', 'visible'",
+			"#menu-inicio",
+			"#menu-inicio-sub",
+			"configModule",
+			"initModule",
+			"oversubmenu",
+			"friend",
+			"recomendaciones",
+			"namek",
+			"User.objects.get",
+			"User.ofjects.get",
+			".add",
+			"get_my_user",
+			"DoesNotExist",
+			"UserProfile",
+			"Username",
+			"Username.objects",
+			"friend",
+			"friends",
+			"MEDIA",
+			"UserProfile",
+			"print",
+			"render_to",
+			"DJANGO_SETTINGS",
+			"SESSION",
+			"SETTINGS_DIR",
+			"cinesnub",
+			"User",
+			"ResponseRedirect",
+			"director.slug",
+			"call_dire",
+			"return",
+			"onLoad",
+			"add_cat",
+			"category",
+			"DATABASE",
+			"STATICFILES_DIRS",
+			"category(",
+			"decode_url",
+			"fullname",
+			"alphabetic",
+			"inline",
+			"\">",
+			"hour",
+			"response",
+			"title",
+			"font-family",
+			";*/\n",
+			"purple",
+			"red",
+			"gardening",
+			"form",
+			"	\n",
+			"hello",
+			"formulario"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#111",
+			"'inline'",
+			"'display', 'inline-block'",
+			"'visibility', 'visible'",
+			"'visibility', 'hidden'",
+			"block",
+			"inline-block",
+			"inline",
+			"list-item",
+			"block",
+			"inline-block",
+			"'display', 'none'",
+			"'display', 'inline'",
+			".menu-element",
+			"#submenu1",
+			"oversub",
+			"recommendations",
+			"get_user_or_profile",
+			"BASE_DIR",
+			"cinesnob",
+			"add_director",
+			"director",
+			"alphanumeric",
+			"hours"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/tic_tac_toe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2289,
+								2289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/alberto/Desktop/web/odin/ruby/ruby_tic_tac_toe/Board.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1514,
+								1514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/alberto/Desktop/web/odin/html5_css3/shayhowe/styles-conference/assets/stylesheets/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1305,
+								1305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "tic_tac_toe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/web/odin/html5_css3/shayhowe/styles-conference/styles-conference.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 115.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
