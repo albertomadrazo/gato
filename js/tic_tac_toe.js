@@ -201,6 +201,18 @@ $(document).ready(function(){
 
 		if(tie){
 			console.log(board.getPlayer());
+			var tie_CSS = {
+					'-webkit-transform': 'none',
+					'-moz-transform': 'none',
+					'-o-transform': 'none',
+					'transform': 'none',
+					top: '65px',
+					left: '36%',
+					visibility: 'visible',
+					width: '250px', 
+					height: '250px'
+			};
+			$('.linea').css(tie_CSS);
 			nuevoJuego(1000);
 		}
 
@@ -244,7 +256,7 @@ $(document).ready(function(){
 		var line_CSS = {};
 		var line_direction_CSS = {};
 		var broken_position = position.split(" ");
-		console.log(broken_position);
+
 		switch(broken_position[0]){
 			case 'vertical':
 				if(broken_position[1] === '1'){
@@ -259,11 +271,15 @@ $(document).ready(function(){
 				}
 				else if(broken_position[1] === '3'){
 					line_direction_CSS = {
-						right: '37%', 
+						right: '38%', 
 					};
 				}
 				line_CSS = {
-					top: '40px',
+					'-webkit-transform': 'none',
+					'-moz-transform': 'none',
+					'-o-transform': 'none',
+					'transform': 'none',
+					top: '49px',
 					visibility: 'visible',
 					width: '20px', 
 					height: '285px',
@@ -274,21 +290,25 @@ $(document).ready(function(){
 			case 'horizontal':
 				if(broken_position[1] === '1'){
 					line_direction_CSS = {
-						top: '73px', 
+						top: '82px', 
 					};
 				}	
 				else if(broken_position[1] === '2'){
 					line_direction_CSS = {
-						top: '172px', 
+						top: '181px', 
 					};
 				}
 				else if(broken_position[1] === '3'){
 					line_direction_CSS = {
-						top: '271px', 
+						top: '280px', 
 					};
 				}
 				line_CSS = {
-					right: '34%',
+					'-webkit-transform': 'none',
+					'-moz-transform': 'none',
+					'-o-transform': 'none',
+					'transform': 'none',
+					left: '34%',
 					top: '70px',
 					visibility: 'visible',
 					width: '285px', 
