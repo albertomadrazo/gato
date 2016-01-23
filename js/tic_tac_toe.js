@@ -186,6 +186,13 @@ $(document).ready(function(){
 		if(board.board_moves[parseInt($(this).attr('id'))-1] === " "){
 			board.board_moves[parseInt($(this).attr('id'))-1] = board.symbols[board.getPlayer()-1];
 			$(this).html(board.symbols[board.getPlayer()-1]);
+
+			if(board.getPlayer() === 1){
+				board.setPlayer(2);
+			}
+			else if(board.getPlayer() === 2){
+				board.setPlayer(1);
+			}
 		}
 		var got_winner = board.checkForWin();
 		if(got_winner){
@@ -216,12 +223,6 @@ $(document).ready(function(){
 			nuevoJuego(1000);
 		}
 
-		if(board.getPlayer() === 1){
-			board.setPlayer(2);
-		}
-		else if(board.getPlayer() === 2){
-			board.setPlayer(1);
-		}
 
 	});	
 
@@ -257,92 +258,90 @@ $(document).ready(function(){
 		var line_direction_CSS = {};
 		var broken_position = position.split(" ");
 
-		switch(broken_position[0]){
-			case 'vertical':
-				if(broken_position[1] === '1'){
-					line_direction_CSS = {
-						right: '60%', 
-					};
-				}	
-				else if(broken_position[1] === '2'){
-					line_direction_CSS = {
-						right: '49%', 
-					};
-				}
-				else if(broken_position[1] === '3'){
-					line_direction_CSS = {
-						right: '38%', 
-					};
-				}
-				line_CSS = {
-					'-webkit-transform': 'none',
-					'-moz-transform': 'none',
-					'-o-transform': 'none',
-					'transform': 'none',
-					top: '49px',
-					visibility: 'visible',
-					width: '20px', 
-					height: '285px',
+		if(broken_position[0] === 'vertical'){
+			if(broken_position[1] === '1'){
+				line_direction_CSS = {
+					right: '60%', 
 				};
-				line_CSS = $.extend(line_CSS, line_direction_CSS);
-			break;
-
-			case 'horizontal':
-				if(broken_position[1] === '1'){
-					line_direction_CSS = {
-						top: '82px', 
-					};
-				}	
-				else if(broken_position[1] === '2'){
-					line_direction_CSS = {
-						top: '181px', 
-					};
-				}
-				else if(broken_position[1] === '3'){
-					line_direction_CSS = {
-						top: '280px', 
-					};
-				}
-				line_CSS = {
-					'-webkit-transform': 'none',
-					'-moz-transform': 'none',
-					'-o-transform': 'none',
-					'transform': 'none',
-					left: '34%',
-					top: '70px',
-					visibility: 'visible',
-					width: '285px', 
-					height: '20px',
+			}	
+			else if(broken_position[1] === '2'){
+				line_direction_CSS = {
+					right: '49%', 
 				};
-				line_CSS = $.extend(line_CSS, line_direction_CSS);
-			break;
-
-			case 'diagonal':
-				if(broken_position[1] === '1'){
-					line_direction_CSS = {
-						'-webkit-transform': 'rotate(-45deg)',
-						'-moz-transform': 'rotate(-45deg)',
-						'-o-transform': 'rotate(-45deg)',
-						'transform': 'rotate(-45deg)'
-					};
-				}	
-				else if(broken_position[1] === '2'){
-					line_direction_CSS = {
-						'-webkit-transform': 'rotate(45deg)',
-						'-moz-transform': 'rotate(45deg)',
-						'-o-transform': 'rotate(45deg)',
-						'transform': 'rotate(45deg)'
-					};
-				}
-				line_CSS = {
-					visibility: 'visible',
-					top: '40px', 
-					left: '48%', 
-					width: '20px', 
-					height: '300px'
+			}
+			else if(broken_position[1] === '3'){
+				line_direction_CSS = {
+					right: '38%', 
 				};
-				line_CSS = $.extend(line_CSS, line_direction_CSS);
-			break;
+			}
+			line_CSS = {
+				'-webkit-transform': 'none',
+				'-moz-transform': 'none',
+				'-o-transform': 'none',
+				'transform': 'none',
+				top: '49px',
+				visibility: 'visible',
+				width: '20px', 
+				height: '285px',
+			};
+			line_CSS = $.extend(line_CSS, line_direction_CSS);
+		}
+		else if(broken_position[0] === 'horizontal'){
+			if(broken_position[1] === '1'){
+				line_direction_CSS = {
+					top: '82px', 
+				};
+			}	
+			else if(broken_position[1] === '2'){
+				line_direction_CSS = {
+					top: '181px', 
+				};
+			}
+			else if(broken_position[1] === '3'){
+				line_direction_CSS = {
+					top: '280px', 
+				};
+			}
+			line_CSS = {
+				'-webkit-transform': 'none',
+				'-moz-transform': 'none',
+				'-o-transform': 'none',
+				'transform': 'none',
+				left: '34%',
+				top: '70px',
+				visibility: 'visible',
+				width: '285px', 
+				height: '20px',
+			};
+			line_CSS = $.extend(line_CSS, line_direction_CSS);
+		}
+		else if(broken_position[0] === 'diagonal'){
+			if(broken_position[1] === '1'){
+				line_direction_CSS = {
+					right: '60%',
+					'-webkit-transform': 'rotate(-45deg)',
+					'-moz-transform': 'rotate(-45deg)',
+					'-o-transform': 'rotate(-45deg)',
+					'transform': 'rotate(-45deg)'
+				};
+			}	
+			else if(broken_position[1] === '2'){
+				line_direction_CSS = {
+					right: '38%',
+					'-webkit-transform': 'rotate(45deg)',
+					'-moz-transform': 'rotate(45deg)',
+					'-o-transform': 'rotate(45deg)',
+					'transform': 'rotate(45deg)'
+				};
+			}
+			line_CSS = {
+				visibility: 'visible',
+				top: '40px', 
+				left: '48%', 
+				width: '20px', 
+				height: '300px'
+			};
+			line_CSS = $.extend(line_CSS, line_direction_CSS);
 		}
 
 		$('.linea').css(line_CSS);
